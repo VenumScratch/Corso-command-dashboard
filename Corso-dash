@@ -1,0 +1,12 @@
+corso-command-dashboard
+ ├─ pages/
+ │   ├─ index.js
+ │   └─ api/
+ │       └─ feed.js
+ ├─ public/
+ │   └─ logo.png   (your CorsoCorner logo)
+ ├─ styles/
+ │   └─ globals.css
+ ├─ package.json
+ └─ README.md
+`
