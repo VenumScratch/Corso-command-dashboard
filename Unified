@@ -1,0 +1,7 @@
+# Corso Proxy
+
+A unified proxy for Copilot shares → JSON, deployable on Vercel (serverless) or IONOS (container).
+
+## Local Run
+```bash
+uvicorn corso_proxy:app --reload
